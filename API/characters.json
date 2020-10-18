@@ -1,0 +1,177 @@
+[
+  {
+    "id": "04f9d96f-961e-43b6-9fc4-3411e6a92e3c",
+    "name": "Saber",
+    "voiceActor": "Kawasumi, Ayako"
+  },
+  {
+    "id": "aae9316b-0035-4346-851d-d456adb76477",
+    "name": "Toosaka, Rin",
+    "voiceActor": "Ueda, Kana"
+  },
+  {
+    "id": "cc03dc69-753f-452f-89f2-d3e3af06001c",
+    "name": "Archer",
+    "voiceActor": "Suwabe, Junichi"
+  },
+  {
+    "id": "ea1f28b0-c56b-41f1-b3c4-d68a5dc61490",
+    "name": "Emiya, Shirou",
+    "voiceActor": "Sugiyama, Noriaki"
+  },
+  {
+    "id": "471471c1-e93c-44f2-b319-ecbf5c6b8683",
+    "name": "Emma",
+    "voiceActor": "Morohoshi, Sumire"
+  },
+  {
+    "id": "c502f27d-b3e6-4d4c-9e59-fae7e4f277c2",
+    "name": "Norman",
+    "voiceActor": "Uchida, Maaya"
+  },
+  {
+    "id": "9ae0aaa5-e1e9-46d3-ab54-7e908ad67277",
+    "name": "Ray",
+    "voiceActor": "Ise, Mariya"
+  },
+  {
+    "id": "820f14ab-01c5-470f-bd35-a16986cf039a",
+    "name": "Kamado, Tanjirou",
+    "voiceActor": "Hanae, Natsuki"
+  },
+  {
+    "id": "7f538683-c6d4-4e8d-88d4-4d93d7167651",
+    "name": "Kamado, Nezuko",
+    "voiceActor": "Kitou, Akari"
+  },
+  {
+    "id": "97c4e2de-8966-44fb-ba45-25ca193dbbcb",
+    "name": "Agatsuma, Zenitsu",
+    "voiceActor": "Shimono, Hiro"
+  },
+  {
+    "id": "020ee931-f5de-4d3a-8766-5bf57248f746",
+    "name": "Hashibira, Inosuke",
+    "voiceActor": "Matsuoka, Yoshitsugu"
+  },
+  {
+    "id": "e22f755c-b070-4157-a287-337d21dc362b",
+    "name": "Ackerman, Mikasa",
+    "voiceActor": "Ishikawa, Yui"
+  },
+  {
+    "id": "f5b2873d-b269-4bfa-8516-d70add0b9f30",
+    "name": "Yeager, Eren",
+    "voiceActor": "Kaji, Yuki"
+  },
+  {
+    "id": "7f56b609-58b9-47b3-9d8f-34910791d06d",
+    "name": "Arlert, Armin",
+    "voiceActor": "Inoue, Marina"
+  },
+  {
+    "id": "70f47197-a5fa-46b8-a365-831c64f3beb2",
+    "name": "Hinata, Shouyou",
+    "voiceActor": "Murase, Ayumu"
+  },
+  {
+    "id": "829d7a06-60da-4d2d-8faa-07fac638738c",
+    "name": "Kageyama, Tobio",
+    "voiceActor": "Ishikawa, Kaito"
+  },
+  {
+    "id": "de64c5c3-10bb-4eca-a4a4-d9bc11e30092",
+    "name": "Shinomiya, Kaguya",
+    "voiceActor": "Koga, Aoi"
+  },
+  {
+    "id": "bddf7bfb-943d-4ac6-a390-539cd88d73d0",
+    "name": "Shirogane, Miyuki",
+    "voiceActor": "Furukawa, Makoto"
+  },
+  {
+    "id": "ec272444-7b7d-460a-9a98-6cc818e637d5",
+    "name": "Fujiwara, Chika",
+    "voiceActor": "Kohara, Konomi"
+  },
+  {
+    "id": "bc6f8a6a-56a7-4b7e-aba9-83b3b6d23858",
+    "name": "Ishigami, Yuu",
+    "voiceActor": "Suzuki, Ryouta"
+  },
+  {
+    "id": "d48004f5-1d75-45f0-9430-5e54353438cc",
+    "name": "Senkuu",
+    "voiceActor": "Kobayashi, Yuusuke"
+  },
+  {
+    "id": "c5799ef2-8fb7-47cd-a78e-477ff3a84606",
+    "name": "Ooki, Taiju",
+    "voiceActor": "Furukawa, Makoto"
+  },
+  {
+    "id": "76839614-cd34-483b-9b37-d77fa5ad9555",
+    "name": "Kohaku",
+    "voiceActor": "Numakura, Manami"
+  },
+  {
+    "id": "65489419-a4b9-4d38-8dcb-d447bacef78b",
+    "name": "Chrome",
+    "voiceActor": "Satou, Gen"
+  },
+  {
+    "id": "18441d99-666d-4250-b70d-e75ce178d3c5",
+    "name": "Koro-sensei",
+    "voiceActor": "Fukuyama, Jun"
+  },
+  {
+    "id": "de06a423-c16a-4241-b7a6-55bc09c0546d",
+    "name": "Shiota, Nagisa",
+    "voiceActor": "Fuchigami, Mai"
+  },
+  {
+    "id": "c02bf041-1f7d-46ff-bb1a-7ac23a1303a9",
+    "name": "Akabane, Karma",
+    "voiceActor": "Okamoto, Nobuhiko"
+  },
+  {
+    "id": "4c6e79e1-3f46-41ec-b09e-1738b48e22a3",
+    "name": "Okabe, Rintarou",
+    "voiceActor": "Miyano, Mamoru"
+  },
+  {
+    "id": "5362e2e9-8def-46a1-bd05-e8269333a10c",
+    "name": "Makise, Kurisu",
+    "voiceActor": "Imai, Asami"
+  },
+  {
+    "id": "de75ff1a-06e5-44f9-8af8-5a4952a23065",
+    "name": "Shiina, Mayuri",
+    "voiceActor": "Hanazawa, Kana"
+  },
+  {
+    "id": "0ceee1de-73f3-4afc-ae29-74fb3aed7bd6",
+    "name": "Hashida, Itaru",
+    "voiceActor": "Seki, Tomokazu"
+  },
+  {
+    "id": "207de119-6ba0-4f90-9298-b24d7d49a476",
+    "name": "Kamina",
+    "voiceActor": "Konishi, Katsuyuki"
+  },
+  {
+    "id": "493fbbc6-912f-465d-9416-d431556bd50d",
+    "name": "Simon",
+    "voiceActor": "Sugou, Takayuki"
+  },
+  {
+    "id": "6683dd15-bce8-423c-81bd-96836309e06e",
+    "name": "Littner, Yoko",
+    "voiceActor": "Inoue, Marina"
+  },
+  {
+    "id": "4282f431-5590-40be-875e-6a41d163bd62",
+    "name": "Teppelin, Nia",
+    "voiceActor": "Fukui, Yukari"
+  }
+]

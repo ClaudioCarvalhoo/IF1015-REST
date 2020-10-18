@@ -1,0 +1,97 @@
+[
+  {
+    "id": "20f76993-e04a-4a60-a695-958d0775e486",
+    "name": "Fate/stay night: Unlimited Blade Works",
+    "mainCharacters": [
+      "04f9d96f-961e-43b6-9fc4-3411e6a92e3c",
+      "aae9316b-0035-4346-851d-d456adb76477",
+      "cc03dc69-753f-452f-89f2-d3e3af06001c",
+      "ea1f28b0-c56b-41f1-b3c4-d68a5dc61490"
+    ]
+  },
+  {
+    "id": "9a5a9866-e1ec-4f73-a5d9-af726b6121f5",
+    "name": "Yakusoku no Neverland",
+    "mainCharacters": [
+      "471471c1-e93c-44f2-b319-ecbf5c6b8683",
+      "c502f27d-b3e6-4d4c-9e59-fae7e4f277c2",
+      "9ae0aaa5-e1e9-46d3-ab54-7e908ad67277"
+    ]
+  },
+  {
+    "id": "a71beedf-4d1a-4614-9e47-f69be5f6038b",
+    "name": "Kimetsu no Yaiba",
+    "mainCharacters": [
+      "820f14ab-01c5-470f-bd35-a16986cf039a",
+      "7f538683-c6d4-4e8d-88d4-4d93d7167651",
+      "97c4e2de-8966-44fb-ba45-25ca193dbbcb",
+      "020ee931-f5de-4d3a-8766-5bf57248f746"
+    ]
+  },
+  {
+    "id": "2267fc9e-1709-45b7-bf97-f584b93130f5",
+    "name": "Shingeki no Kyojin",
+    "mainCharacters": [
+      "e22f755c-b070-4157-a287-337d21dc362b",
+      "f5b2873d-b269-4bfa-8516-d70add0b9f30",
+      "7f56b609-58b9-47b3-9d8f-34910791d06d"
+    ]
+  },
+  {
+    "id": "b59bd08a-02a8-42fc-b46e-556fdb801eef",
+    "name": "Haikyuu!!",
+    "mainCharacters": [
+      "70f47197-a5fa-46b8-a365-831c64f3beb2",
+      "829d7a06-60da-4d2d-8faa-07fac638738c"
+    ]
+  },
+  {
+    "id": "d244ea0c-3b58-4239-b5f4-831522651f0f",
+    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "mainCharacters": [
+      "de64c5c3-10bb-4eca-a4a4-d9bc11e30092",
+      "bddf7bfb-943d-4ac6-a390-539cd88d73d0",
+      "ec272444-7b7d-460a-9a98-6cc818e637d5",
+      "bc6f8a6a-56a7-4b7e-aba9-83b3b6d23858"
+    ]
+  },
+  {
+    "id": "9104f854-f4e9-4e03-905f-07028262d5af",
+    "name": "Dr. Stone",
+    "mainCharacters": [
+      "d48004f5-1d75-45f0-9430-5e54353438cc",
+      "c5799ef2-8fb7-47cd-a78e-477ff3a84606",
+      "76839614-cd34-483b-9b37-d77fa5ad9555",
+      "65489419-a4b9-4d38-8dcb-d447bacef78b"
+    ]
+  },
+  {
+    "id": "ee474356-7c81-4c21-abbb-4c7e4f9ce428",
+    "name": "Ansatsu Kyoushitsu",
+    "mainCharacters": [
+      "18441d99-666d-4250-b70d-e75ce178d3c5",
+      "de06a423-c16a-4241-b7a6-55bc09c0546d",
+      "c02bf041-1f7d-46ff-bb1a-7ac23a1303a9"
+    ]
+  },
+  {
+    "id": "4fd2eb56-838b-4f3b-8e9b-ef8dc5f1e39d",
+    "name": "Steins;Gate",
+    "mainCharacters": [
+      "4c6e79e1-3f46-41ec-b09e-1738b48e22a3",
+      "5362e2e9-8def-46a1-bd05-e8269333a10c",
+      "de75ff1a-06e5-44f9-8af8-5a4952a23065",
+      "0ceee1de-73f3-4afc-ae29-74fb3aed7bd6"
+    ]
+  },
+  {
+    "id": "c83ceab6-489e-4f9f-b9fa-6a1f322a27bc",
+    "name": "Tengen Toppa Gurren Lagann",
+    "mainCharacters": [
+      "207de119-6ba0-4f90-9298-b24d7d49a476",
+      "493fbbc6-912f-465d-9416-d431556bd50d",
+      "6683dd15-bce8-423c-81bd-96836309e06e",
+      "4282f431-5590-40be-875e-6a41d163bd62"
+    ]
+  }
+]
